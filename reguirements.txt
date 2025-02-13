@@ -1,2 +1,3 @@
 pyrogram
+pyrogram.types
 youtube_dl
